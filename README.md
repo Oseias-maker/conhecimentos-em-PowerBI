@@ -70,6 +70,8 @@ Avançar em conhecimento sobre Power BI e seu uso profissional em análise de da
 
 ## Arquivo "6-Projeto-final-Lojas&Alimentos"
 
+![Projeto Power BI - Lojas e Alimentos](PowerBi-intro/Resultados/6-Projeto-final-Lojas&Alimentos-IMG "Dashboard do Projeto Power BI")
+
 ### 📈 Destaques
 - Dashboard Abrangente: Apresenta uma visão holística das vendas, incluindo quantidade por produto, soma das vendas por mês, total de vendas, produtos vendidos, % de vendas por clientes, proporção de vendas por preço, vendas por estado e proporção de custo por produto
 - Análise Multidimensional: Permite explorar o desempenho de vendas sob diversas perspectivas (produto, tempo, cliente, localização, preço e custo)
