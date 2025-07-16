@@ -99,3 +99,5 @@ Avançar em conhecimento sobre Power BI e seu uso profissional em análise de da
 
 📁 *Todos os arquivos em excel e PBIX estão disponiveis neste repositório.*
 
+*Todos os arquivos em excel são fictícios.*
+
