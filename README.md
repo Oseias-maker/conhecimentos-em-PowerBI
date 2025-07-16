@@ -1,4 +1,4 @@
-# Conhecimentos em-PowerBI
+# Conhecimentos em PowerBI
 ### Abaixo você encontrá a descrição dos aprendizados e projetos com Power BI
 
 ## 📊 Análises sobre vendas de Lojas e Alimentos 
