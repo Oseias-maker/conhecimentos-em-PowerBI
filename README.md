@@ -83,6 +83,8 @@ Avançar em conhecimento sobre Power BI e seu uso profissional em análise de da
 
 ## Arquivo "7-Projeto-Avaliações"
 
+![Projeto Power BI - Avaliações de profissões em tecnologia](PowerBi-intro/Resultados/7-Projeto-Avaliações-IMG.jpg "Dashboard do Projeto Power BI")
+
 ### 📈 Destaques
 - Dashboard Abrangente: Apresenta insights sobre a quantidade de avaliadores por país, linguagens favoritas, total de avaliadores, idade média, média de satisfação com trabalho/vida e salário
 - Comparativo de Salários: Permite comparar a média salarial entre diferentes profissões e entre homens e mulheres no setor de TI
